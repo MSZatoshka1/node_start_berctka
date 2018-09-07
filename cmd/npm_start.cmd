@@ -1,7 +1,0 @@
-
-cd ../
-npm run start
-
- 
-
- 
