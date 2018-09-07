@@ -27,6 +27,3 @@ function watch (){
 const build = gulp.series(watch);
 gulp.task('build', build);
 gulp.task('default', build);
-
-
-
